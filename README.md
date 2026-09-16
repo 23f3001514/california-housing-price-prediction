@@ -90,7 +90,7 @@ The project uses district-level housing data, split into training and test sets:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/HOUSE_PRICE_PROJECT.git
+git clone https://github.com/23f3001514/HOUSE_PRICE_PROJECT.git
 cd HOUSE_PRICE_PROJECT
 
 # Install dependencies

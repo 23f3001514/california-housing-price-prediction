@@ -1,4 +1,3 @@
-# california-housing-price-prediction
 
 # HOUSE_PRICE_PROJECT
 🏠 California Housing Price Prediction

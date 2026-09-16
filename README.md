@@ -25,7 +25,7 @@ HOUSE_PRICE_PROJECT/
 ├── Models/               # preprocessing_and_model_pipeline
 ├── notebook/             # Main EDA & modeling notebook
 ├── reports/              # Generated project report (PDF)
-├── outputs/              # submission.csv and saved plots
+├── scripts/              # residual analysis and final submission submission
 └── README.md
 ```
 
